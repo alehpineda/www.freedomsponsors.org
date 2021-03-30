@@ -1,6 +1,6 @@
 django==1.11.29
 splinter==0.5.4
-Pygments==1.5
+Pygments==2.7.4
 misaka==1.0.2
 psycopg2==2.4.5
 simplejson==2.6.2
